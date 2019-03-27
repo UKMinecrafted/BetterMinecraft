@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "betterminecraft:mini_coal"
+    },
+    {
+      "item": "minecraft:fish",
+      "data": 1
+    }
+  ],
+  "result": {
+    "item": "minecraft:cooked_fish",
+    "data": 1,
+    "count": 1
+  }
+}

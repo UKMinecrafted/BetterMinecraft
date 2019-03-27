@@ -1,0 +1,16 @@
+[
+{
+  "modid": "betterminecraft",
+  "name": "Better Minecraft",
+  "description": "Makes minecraft a bit better with changes.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://discord.gg/R6GQ4PU",
+  "updateUrl": "",
+  "authorList": ["§6UKMinecrafted"],
+  "credits": "§6UKMinecrafted",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
