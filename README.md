@@ -1,1 +1,1 @@
-# FurnaceNoMore
+# Better Minecraft
